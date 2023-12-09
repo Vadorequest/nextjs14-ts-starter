@@ -1,3 +1,7 @@
+# NextJS 14 starter (with TS)
+
+> Bootstrapped using [`npx create-next-app@latest`](https://nextjs.org/docs/pages/building-your-application/configuring/typescript)
+
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
 ## Getting Started
